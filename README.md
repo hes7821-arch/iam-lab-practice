@@ -1,6 +1,6 @@
 My IAM Lab Practice
 
-This repo is where I practise before doing the real labs.
+This repo is where I practice before doing the real labs.
 
 ## What I am learning
 
