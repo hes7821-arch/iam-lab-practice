@@ -4,7 +4,7 @@
 * [Break-Glass Strategy](docs/Lab%202/docs_break-glass.md)
 
 ## Key Screenshots
-* [Boundary Block Error](docs/screenshots/Lab%202/action-blocked-boundary_update)
+* [Boundary Block Error](docs/screenshots/Lab%202/action-blocked-boundary_update.png)
 * [Audit Log Role Assignments](docs/screenshots/Lab%202/audit-log-role-assignment.png)
 * [Alex Mercer Role Confirmation](docs/screenshots/Lab%202/role-assignment%201-confirmation.png.png)
 * [David Chen Role Confirmation](docs/screenshots/Lab%202/roles-assignment%202-confirmation.png.png)
